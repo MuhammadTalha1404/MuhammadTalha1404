@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Muhammad Talha | Software Engineering, Applied AI and Automation" width="100%" />
+  <img src="./banner.png" alt="Muhammad Talha | Software Engineering, Applied AI and Automation" width="100%" />
 </p>
 
 <p align="center">
