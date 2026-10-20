@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="./banner.png" alt="Muhammad Talha | Software Engineering, Applied AI and Automation" width="100%" />
+  <img src="./banner.png" alt="Muhammad Talha | Software Engineer, Technical Project Manager" width="100%" />
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@
 
 ## About me
 
-I'm **Muhammad Talha**, a **Software Engineering graduate, Project Manager, and Python Developer** with interests spanning **project delivery, technical project management, and software development**.
+I am Muhammad Talha, a Software Engineering graduate, Technical Project Manager, Software Engineer and Python Developer with interests spanning project delivery, project management and software development.
 
-I currently work as a **Project Manager**, coordinating team members and stakeholders, organizing tasks and priorities, tracking progress and deadlines, and reviewing deliverables to keep projects on track. My software engineering background helps me understand technical requirements, communicate with development teams, and approach problems from both a delivery and engineering perspective.
+Currently, I am working as a Project Manager, coordinating team members and stakeholders, organizing tasks and priorities, tracking progress and deadlines and reviewing deliverables to keep projects on track. My software engineering background helps me understand technical requirements, communicate with development teams and approach problems from both a delivery and engineering perspective.
 
-On the development side, I build **Python-based web applications, backend systems, AI-powered tools, and machine learning projects**. I enjoy working with **Django, Flask, FastAPI**, and full-stack technologies to turn ideas into practical solutions.
+On the development side, I have build web applications, backend systems, AI tools, and machine learning projects. I enjoy working with Django, Flask, FastAPI, and full stack technologies to turn ideas into practical solutions.
 
 - **Project management:** Task planning, team coordination, progress tracking, stakeholder communication, and quality assurance.
 - **Technical focus:** Python development, backend systems, APIs, AI/ML, and full-stack applications.
