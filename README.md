@@ -18,15 +18,7 @@
 
 ## About me
 
-I am Muhammad Talha, a Software Engineering graduate, Technical Project Manager, Software Engineer and Python Developer with interests spanning project delivery, project management and software development.
-
-Currently, I am working as a Project Manager, coordinating team members and stakeholders, organizing tasks and priorities, tracking progress and deadlines and reviewing deliverables to keep projects on track. My software engineering background helps me understand technical requirements, communicate with development teams and approach problems from both a delivery and engineering perspective.
-
-On the development side, I have build web applications, backend systems, AI tools, and machine learning projects. I enjoy working with Django, Flask, FastAPI, and full stack technologies to turn ideas into practical solutions.
-
-- **Project management:** Task planning, team coordination, progress tracking, stakeholder communication, and quality assurance.
-- **Technical focus:** Python development, backend systems, APIs, AI/ML, and full-stack applications.
-- **How I work:** Clear requirements, realistic deadlines, collaborative problem-solving, and reliable delivery.
+I am Muhammad Talha, a Project Manager and Software Engineer with a BS in Software Engineering. My focus is on technical project management and software development, with hands on experience in project planning, team coordination, progress tracking, and project delivery. On the development side, I have built web applications, backend systems, AI tools, and machine learning projects. I enjoy working with Python, Django, Flask, FastAPI and full stack technologies to build practical software solutions.
 
 ## Technologies & tools
 
