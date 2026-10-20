@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=1200&color=0D9488&center=true&vCenter=true&width=850&height=48&lines=Project+Management+%7C+Software+Development;Technical+Project+Management;Python+Developer+%7C+AI+%26+ML;From+Planning+to+Delivery" alt="Software Engineering, Applied AI, and building useful systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=1200&color=0D9488&center=true&vCenter=true&width=850&height=48&lines=Project+Manager+%7C+Software+Engineer;Technical+Project+Management;Python+Developer+%7C+AI+%26+ML;From+Planning+to+Delivery" alt="Software Engineering, Applied AI, and building useful systems" />
 </div>
 
 ## About me
